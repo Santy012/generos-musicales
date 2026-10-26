@@ -1,0 +1,22 @@
+# Dependencias directas con versiones fijadas (Python 3.13, Windows).
+tensorflow==2.21.0
+librosa==1.0.0
+soundfile==0.14.0
+numpy==2.5.4
+pandas==3.1.0
+scikit-learn==1.9.1
+matplotlib==3.11.2
+seaborn==0.13.2
+pytest==9.1.1
+ipykernel==7.4.0
+# Descarga de datos: GTZAN desde Kaggle y géneros nuevos desde las listas curadas.
+kagglehub==1.0.3
+yt-dlp==2026.10.21
+# Binario de ffmpeg dentro del entorno (lo usa yt-dlp para recortar y convertir).
+imageio-ffmpeg==0.6.0
+# Ejecución de los notebooks desde la línea de comandos.
+nbformat==5.11.1
+nbclient==0.11.0
+
+# Paquete del proyecto (src/generos) en modo editable.
+-e .
