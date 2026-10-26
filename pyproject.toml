@@ -8,6 +8,7 @@ version = "0.1.0"
 description = "Clasificación de géneros musicales con MFCC: red densa frente a LSTM, con salsa, vallenato, reguetón y rock en español"
 requires-python = ">=3.12"
 license = "MIT"
+license-files = ["LICENSE"]
 authors = [{ name = "Santiago Castellanos" }]
 
 [tool.setuptools.packages.find]
