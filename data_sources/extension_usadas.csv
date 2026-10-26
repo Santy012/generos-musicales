@@ -1,0 +1,390 @@
+genero,id_video,artista,titulo,grupo,particion
+salsa,_w5_nBYEWC4,Héctor Lavoe,El Cantante,salsa:willie colon,train
+salsa,qYkpURie5cU,Héctor Lavoe,Periódico de Ayer,salsa:willie colon,train
+salsa,ENHH9-imLe8,Héctor Lavoe,Mi Gente,salsa:willie colon,train
+salsa,tUOQl42yoHU,Willie Colón,Idilio,salsa:willie colon,train
+salsa,eOU5B7sttHw,Willie Colón,Gitana,salsa:willie colon,train
+salsa,Phy-i5oPJJ0,Willie Colón,Calle Luna Calle Sol,salsa:willie colon,train
+salsa,LbBLA7uvM3c,Rubén Blades,Pedro Navaja,salsa:willie colon,train
+salsa,GyhwmZAQB-Y,Rubén Blades,Decisiones,salsa:willie colon,train
+salsa,KPWvD5vbJ8I,Rubén Blades,Plástico,salsa:willie colon,train
+salsa,0nBFWzpWXuM,Celia Cruz,La Vida Es Un Carnaval,salsa:celia cruz,valid
+salsa,TxRWQHCSmUg,Celia Cruz,Quimbara,salsa:celia cruz,valid
+salsa,NkrONGkGXVI,Celia Cruz,Bemba Colorá,salsa:celia cruz,valid
+salsa,0xT7maXs-UU,El Gran Combo de Puerto Rico,Brujería,salsa:gran combo puerto rico,valid
+salsa,hd0cl2d2ziU,El Gran Combo de Puerto Rico,Un Verano en Nueva York,salsa:gran combo puerto rico,valid
+salsa,frsVQWSINAI,El Gran Combo de Puerto Rico,Me Liberé,salsa:gran combo puerto rico,valid
+salsa,7KxkMLAZlzw,Grupo Niche,Cali Pachanguero,salsa:niche,train
+salsa,GOiKfJOsbuA,Grupo Niche,Una Aventura,salsa:niche,train
+salsa,EJdbZIgaSHg,Grupo Niche,Sin Sentimiento,salsa:niche,train
+salsa,qSi2j6FM0dc,Joe Arroyo,Rebelión,salsa:fruko tesos,train
+salsa,B-VBhgh_G8Q,Joe Arroyo,La Noche,salsa:fruko tesos,train
+salsa,j8ElCh65bzk,Joe Arroyo,En Barranquilla Me Quedo,salsa:fruko tesos,train
+salsa,FN5oLBXiNvM,Fruko y Sus Tesos,El Preso,salsa:fruko tesos,train
+salsa,EhM6qKx-ECI,Fruko y Sus Tesos,Los Charcos,salsa:fruko tesos,train
+salsa,XkfO33yIk4o,Fruko y Sus Tesos,Tania,salsa:fruko tesos,train
+salsa,xm9T4PbzTTs,Guayacán Orquesta,Oiga Mire Vea,salsa:guayacan,test
+salsa,13OkTAFbEu8,Guayacán Orquesta,Torero,salsa:guayacan,test
+salsa,Y9xD2rd2ukI,Oscar D'León,Llorarás,salsa:oscar d leon,train
+salsa,pFQ8HBKDA78,Oscar D'León,Mi Bajo y Yo,salsa:oscar d leon,train
+salsa,A95iNmgA9-8,Oscar D'León,Detalles,salsa:oscar d leon,train
+salsa,fDj-CSQDbsY,Ismael Rivera,El Nazareno,salsa:ismael rivera,train
+salsa,73aox7UjG1E,Ismael Rivera,Las Caras Lindas,salsa:ismael rivera,train
+salsa,nhnHsG9HHms,Ismael Rivera,Mi Negrita Me Espera,salsa:ismael rivera,train
+salsa,pRhKY1jVJwE,Cheo Feliciano,Anacaona,salsa:cheo feliciano,train
+salsa,T7jN9P5Euyk,Cheo Feliciano,Amada Mía,salsa:cheo feliciano,train
+salsa,1q4icTc0gOY,Cheo Feliciano,El Ratón,salsa:cheo feliciano,train
+salsa,a1Iu90A8vqU,Frankie Ruiz,Tú Con Él,salsa:frankie ruiz,test
+salsa,FLZqzmwdPGQ,Frankie Ruiz,La Cura,salsa:frankie ruiz,test
+salsa,jX8TsWUKS6c,Eddie Santiago,Tú Me Quemas,salsa:eddie santiago,train
+salsa,8npywMdv0Sw,Eddie Santiago,Qué Locura Enamorarme de Ti,salsa:eddie santiago,train
+salsa,e494zPaEc6A,Lalo Rodríguez,Ven Devórame Otra Vez,salsa:lalo rodriguez,train
+salsa,0ZfwT6lHahk,Gilberto Santa Rosa,Que Alguien Me Diga,salsa:gilberto santa rosa,train
+salsa,7kbjKCj-rMQ,Gilberto Santa Rosa,Conciencia,salsa:gilberto santa rosa,train
+salsa,aQg1yGaBLW8,Gilberto Santa Rosa,Perdóname,salsa:gilberto santa rosa,train
+salsa,JwsiCbxVPsw,Marc Anthony,Valió La Pena,salsa:marc anthony,train
+salsa,YXnjy5YlDwk,Marc Anthony,Vivir Mi Vida,salsa:marc anthony,train
+salsa,bibVirPrCD4,Marc Anthony,Hasta Ayer,salsa:marc anthony,train
+salsa,LvJcDhDYiXM,Víctor Manuelle,Tengo Ganas,salsa:victor manuelle,train
+salsa,fvcxGU8C8pw,Víctor Manuelle,Apiádate de Mí,salsa:victor manuelle,train
+salsa,sJqDmVekMWU,Jerry Rivera,Amores Como El Nuestro,salsa:jerry rivera,train
+salsa,af3f30QrDoo,Jerry Rivera,Cuenta Conmigo,salsa:jerry rivera,train
+salsa,dz71DuaF5II,Jerry Rivera,Casi Un Hechizo,salsa:jerry rivera,train
+salsa,GhciBgYbA74,Tito Nieves,Fabricando Fantasías,salsa:tito nieves,test
+salsa,bnv9r-FcD6I,La India,Ese Hombre,salsa:india,valid
+salsa,sULrMvUZric,Richie Ray & Bobby Cruz,Sonido Bestial,salsa:richie ray,train
+salsa,XIy3y8en-QA,Richie Ray & Bobby Cruz,Juan En La Ciudad,salsa:richie ray,train
+salsa,4vPMy4x65vE,Ray Barretto,Indestructible,salsa:ray barretto,test
+salsa,1G8SL5pGt80,Ray Barretto,Guararé,salsa:ray barretto,test
+salsa,jqg5n6TtO-U,Sonora Ponceña,Fuego en el 23,salsa:sonora poncena,train
+salsa,wQUcaSEuob0,Rey Ruiz,Mi Media Mitad,salsa:rey ruiz,train
+salsa,2PVi95J-FMo,Luis Enrique,Yo No Sé Mañana,salsa:luis enrique,train
+salsa,0smRUOafImM,Luis Enrique,Desesperado,salsa:luis enrique,train
+salsa,L6GI1r2teW4,Pete El Conde Rodríguez,Catalina La O,salsa:pete conde rodriguez,train
+salsa,n_TPgG58aOw,Ismael Miranda,Así Se Compone Un Son,salsa:ismael miranda,valid
+salsa,mScG_BVjM0g,Andy Montañez,Casi Te Envidio,salsa:gran combo puerto rico,valid
+salsa,_wfGja4gOQA,Tony Vega,Ella Es,salsa:tony vega,train
+salsa,BVIXf9lW3yM,Marvin Santiago,Fuego a la Jicotea,salsa:marvin santiago,valid
+salsa,5tKzKJob0yA,Sonora Carruseles,Micaela,salsa:sonora carruseles,train
+salsa,0QxNT8YOlac,Sonora Carruseles,La Salsa La Traigo Yo,salsa:sonora carruseles,train
+salsa,d9bRnGo2gjk,Adolescent's Orquesta,Persona Ideal,salsa:adolescent s,valid
+salsa,D_0FKJqxldE,Adolescent's Orquesta,Anhelo,salsa:adolescent s,valid
+salsa,wCBu0PkoNPs,DLG,La Quiero a Morir,salsa:dlg,train
+salsa,mKPpI8Fkieg,Eddie Palmieri,Muñeca,salsa:eddie palmieri,test
+salsa,Rn85kvb4bTk,Eddie Palmieri,Vámonos Pa'l Monte,salsa:eddie palmieri,test
+salsa,Nvbg1ns4lUs,Roberto Roena,Que Se Sepa,salsa:roberto roena,train
+salsa,tiACS8mc6vk,José Alberto El Canario,Bailemos Otra Vez,salsa:jose alberto canario,train
+salsa,fWrhqatqoTE,Tito Rojas,Nadie Es Eterno,salsa:tito rojas,train
+salsa,QGJ2HRv4SAY,N'Klabe,Amor de Una Noche,salsa:n klabe,train
+salsa,E0bSJkhMKMs,Yuri Buenaventura,Ne Me Quitte Pas,salsa:yuri buenaventura,train
+salsa,Sqb_hUBR4GE,Willie González,Hazme Olvidarla,salsa:willie gonzalez,train
+salsa,UynbPaAT7wQ,Hermanos Lebrón,Salsa y Control,salsa:lebron,test
+salsa,PRsWFQONl00,Dimensión Latina,Taboga,salsa:dimension latina,train
+salsa,IMB8r66ytms,Ralphy Leavitt,Payaso,salsa:ralphy leavitt,train
+salsa,WUOndsOPuMU,Bobby Valentín,Huracán,salsa:bobby valentin,train
+salsa,5pJUAu7stGM,Nino Segarra,Porque Te Amo,salsa:nino segarra,valid
+salsa,0ykUIOdmkj8,Sonora Ponceña,Boranda,salsa:sonora poncena,train
+salsa,R_XzPTW8bfQ,Andy Montañez,Hojas Blancas,salsa:gran combo puerto rico,valid
+salsa,Xk_bAzeuFSU,José Alberto El Canario,Sueño Contigo,salsa:jose alberto canario,train
+salsa,Q6rrChDmzqw,Spanish Harlem Orchestra,Somos Uno,salsa:spanish harlem orchestra,test
+salsa,H5gxKL5pmI4,Frankie Ruiz,Desnúdate Mujer,salsa:frankie ruiz,test
+salsa,5Z_vieWhWqw,Guayacán Orquesta,Cuando Hablan Las Miradas,salsa:guayacan,test
+salsa,ssanEskVhDQ,Lalo Rodríguez,Pero Llegaste Tú,salsa:lalo rodriguez,train
+salsa,boOvaMLbJEQ,Lalo Rodríguez,No Quiero,salsa:lalo rodriguez,train
+salsa,Cr2ONyorsU0,Víctor Manuelle,No Alcanzó,salsa:victor manuelle,train
+salsa,HYqmdi_2t-4,Tito Nieves,De Mi Enamórate,salsa:tito nieves,test
+salsa,N8U0fCNkCBw,Tito Nieves,Si Te Pudiera Mentir,salsa:tito nieves,test
+salsa,jiW7gzSx1qA,La India,Mi Mayor Venganza,salsa:india,valid
+salsa,atVS36nBgDw,Richie Ray & Bobby Cruz,Ruth,salsa:richie ray,train
+salsa,JlYnaVPICss,Ray Barretto,Margie,salsa:ray barretto,test
+salsa,oW8UfSTQEmo,Rey Ruiz,No Me Acostumbro,salsa:rey ruiz,train
+salsa,AS2777CQ7xc,Rey Ruiz,Luna Negra,salsa:rey ruiz,train
+vallenato,lAITJiV8xbQ,Diomedes Díaz,Sin Medir Distancias,vallenato:diomedes diaz,train
+vallenato,lrbznmzK-uw,Diomedes Díaz,Lluvia de Verano,vallenato:diomedes diaz,train
+vallenato,c7OFt-DiLBQ,Diomedes Díaz,Mi Primera Cana,vallenato:diomedes diaz,train
+vallenato,yry3rgGlRUw,Binomio de Oro,Olvídala,vallenato:binomio oro,test
+vallenato,bv7Ab_LVrkA,Binomio de Oro,Dime Pajarito,vallenato:binomio oro,test
+vallenato,lqQajugFDKE,Binomio de Oro,Momentos de Amor,vallenato:binomio oro,test
+vallenato,Nmb80HXWsFQ,Carlos Vives,La Gota Fría,vallenato:carlos vives,train
+vallenato,V9aFxOc2CyQ,Carlos Vives,Matilde Lina,vallenato:carlos vives,train
+vallenato,9j3oCUtylw4,Carlos Vives,Alicia Adorada,vallenato:carlos vives,train
+vallenato,LqKscPDW8Y0,Silvestre Dangond,Las Locuras Mías,vallenato:silvestre dangond,train
+vallenato,G0d4xBB5szc,Silvestre Dangond,La Gringa,vallenato:silvestre dangond,train
+vallenato,xV-1fk8Mev0,Silvestre Dangond,Cantinero,vallenato:silvestre dangond,train
+vallenato,I-cOD2x-qBs,Los Diablitos,Los Caminos de la Vida,vallenato:diablitos,test
+vallenato,jEBcWHBffQU,Los Diablitos,A Besitos,vallenato:diablitos,test
+vallenato,8TgZyPzcuYI,Kaleth Morales,Vivo en el Limbo,vallenato:kaleth morales,train
+vallenato,bwoap9UJ5zg,Kaleth Morales,Todo de Cabeza,vallenato:kaleth morales,train
+vallenato,3MPn40QYZWE,Kaleth Morales,Destrozaste Mi Alma,vallenato:kaleth morales,train
+vallenato,sxYu5elDS3w,Martín Elías,10 Razones Para Amarte,vallenato:martin elias,train
+vallenato,rF4gFTluHMo,Martín Elías,Sin Ti No Tengo Nada,vallenato:martin elias,train
+vallenato,hPt3duzE1Y8,Hermanos Zuleta,Mi Hermano y Yo,vallenato:zuleta,train
+vallenato,FWN5UxV74pQ,Hermanos Zuleta,El Cofrecito de Plata,vallenato:zuleta,train
+vallenato,QvB9YEaUiUc,Hermanos Zuleta,039,vallenato:zuleta,train
+vallenato,WhnkevnIUng,Jorge Oñate,Paisaje de Sol,vallenato:jorge onate,train
+vallenato,Nb3fillqvwk,Jorge Oñate,Nido de Amor,vallenato:jorge onate,train
+vallenato,FAZLaTyQhfs,Alfredo Gutiérrez,Los Sabanales,vallenato:alfredo gutierrez,valid
+vallenato,TbaqofyB2FY,Alejo Durán,La Cachucha Bacana,vallenato:alejo duran,valid
+vallenato,aVaMnfynNZ4,Alejo Durán,Fidelina,vallenato:alejo duran,valid
+vallenato,HcJIRKgKzaw,Alejo Durán,039,vallenato:alejo duran,valid
+vallenato,cPW9Y94BJI0,Felipe Peláez,Vivo Pensando en Ti,vallenato:felipe pelaez,test
+vallenato,zdzaiR20WEs,Felipe Peláez,Qué Será de Mí,vallenato:felipe pelaez,test
+vallenato,1Qa9_RkUglY,Patricia Teherán,Tarde Lo Conocí,vallenato:patricia teheran,train
+vallenato,DUGXFJIRJaY,Patricia Teherán,Me Dejaste Sin Nada,vallenato:patricia teheran,train
+vallenato,1e-w1E9ebB4,Iván Villazón,La Creciente,vallenato:ivan villazon,train
+vallenato,4WyGjTwb85o,Elder Dayán,Si Te Vas Adiós,vallenato:elder dayan,train
+vallenato,vZI_I8o3sQw,Poncho Zuleta,Lucero Espiritual,vallenato:zuleta,train
+vallenato,MPDomsWrDSc,Poncho Zuleta,El Cantor de Fonseca,vallenato:zuleta,train
+vallenato,tvlFjgMIvbY,Rafael Orozco,Solo Para Ti,vallenato:binomio oro,test
+vallenato,8dqgWblrugY,Rafael Orozco,Cariñito de Mi Vida,vallenato:binomio oro,test
+vallenato,9nk8vzfMXac,Emiliano Zuleta,La Gota Fría,vallenato:zuleta,train
+vallenato,4FyvBdgRFIU,Alfredo Gutiérrez,La Paloma Guarumera,vallenato:alfredo gutierrez,valid
+vallenato,xvQZ3lSmmnw,Nelson Velásquez,La Creciente,vallenato:nelson velasquez,valid
+vallenato,vuU6ST21Z9U,Ana del Castillo,Ay Ay Ay,vallenato:ana castillo,valid
+vallenato,j_xFz3LEWLw,Iván Ovalle,Enamorada De Mí,vallenato:ivan ovalle,train
+vallenato,gJcelmzRv9w,Jesús Manuel Estrada,Sin Ti,vallenato:jesus manuel estrada,train
+vallenato,ZYFtJzJEO1o,Jorge Celedón,No Merezco Tanto Silencio,vallenato:jorge celedon,train
+vallenato,-LxRiXjoEgE,Jorge Celedón,Por Estar Adorandote,vallenato:jorge celedon,train
+vallenato,CtsEMU55AUI,Jorge Celedón,El Invierno Pasado,vallenato:jorge celedon,train
+vallenato,gu0alXwABbg,Los Diablitos,Que Hago Si Te Pierdo,vallenato:diablitos,test
+vallenato,K25h4aWjBf0,Martín Elías,Cancelada de Mi Vida,vallenato:martin elias,train
+vallenato,hkgyOSrDL-I,Jorge Oñate,No Comprendi Tu Amor,vallenato:jorge onate,train
+vallenato,bjNHnxwPFa4,Alfredo Gutiérrez,El Diario De Un Borracho,vallenato:alfredo gutierrez,valid
+vallenato,rs3ey2zb2do,Otto Serge,Señora,vallenato:otto serge,train
+vallenato,V8g7pvWw6nM,Otto Serge,Esposa mía,vallenato:otto serge,train
+vallenato,a-tb7XFpLJY,Otto Serge,Asi de Facil,vallenato:otto serge,train
+vallenato,c2jgy0QrnqQ,Felipe Peláez,Tan Natural,vallenato:felipe pelaez,test
+vallenato,NrdBgGcb3UM,Patricia Teherán,Todo Daría Por Ti,vallenato:patricia teheran,train
+vallenato,cZgs4E-4V_g,Peter Manjarrés,Traga'o De Ti,vallenato:peter manjarres,train
+vallenato,ZqQCEYKW2f8,Peter Manjarrés,Obsesion,vallenato:peter manjarres,train
+vallenato,SoABQEqwBjw,Peter Manjarrés,Te Empeliculaste,vallenato:peter manjarres,train
+vallenato,IdsXYRGsJ4w,Los Inquietos del Vallenato,Después de Ti,vallenato:inquietos vallenato,test
+vallenato,vNR-vEvj7_0,Los Inquietos del Vallenato,Nunca Niegues Que Te Amo,vallenato:inquietos vallenato,test
+vallenato,AVB_I-OF678,Los Inquietos del Vallenato,Volver,vallenato:inquietos vallenato,test
+vallenato,XeL_dj0BEhQ,Iván Villazón,Por Un Amor,vallenato:ivan villazon,train
+vallenato,iFlC7p-5fwk,Iván Villazón,Mi Alma En Pleno,vallenato:ivan villazon,train
+vallenato,WVhiLoyWmnA,Nelson Velásquez,Por Querer Olvidarte,vallenato:nelson velasquez,valid
+vallenato,-VwltnNW8sQ,Nelson Velásquez,Casualidad,vallenato:nelson velasquez,valid
+vallenato,Mvypo7rT378,Jean Carlos Centeno,Qué Pena,vallenato:jean carlos centeno,train
+vallenato,FNthXeh5qhc,Jean Carlos Centeno,Entrada Sin Salida,vallenato:jean carlos centeno,train
+vallenato,t1qZIGxcSfM,Jean Carlos Centeno,Amantes Inocentes,vallenato:jean carlos centeno,train
+vallenato,eMnqzGryHtg,Mono Zabaleta,Tu Guardaito,vallenato:mono zabaleta,train
+vallenato,1r5jY5dgfTk,Mono Zabaleta,El Chacho De Tus Pretendientes,vallenato:mono zabaleta,train
+vallenato,GBxs9Wt4p0Q,Mono Zabaleta,Imborrable,vallenato:mono zabaleta,train
+vallenato,8IghMTlX91E,Fabián Corrales,La Consentida,vallenato:fabian corrales,valid
+vallenato,nKLIlrta6g8,Fabián Corrales,Te quiero y te pienso,vallenato:fabian corrales,valid
+vallenato,GS2PEhCglQg,Ana del Castillo,El Amor es Así,vallenato:ana castillo,valid
+vallenato,BkYViONi-Vc,Ana del Castillo,Ya Es Mío,vallenato:ana castillo,valid
+vallenato,u1weoHbn_jU,Elder Dayán,Nunca Fui Dueño,vallenato:elder dayan,train
+vallenato,ze3GoLHKcoQ,Elder Dayán,El Picantico,vallenato:elder dayan,train
+vallenato,pmkWTIYPGMA,Hebert Vargas,Daría la Vida Por Ti,vallenato:hebert vargas,test
+vallenato,7v7S5NrXa0w,Hebert Vargas,Después del Adiós,vallenato:hebert vargas,test
+vallenato,YnwnilX3Kck,Rafa Pérez,Si No Me Falla El Corazón,vallenato:rafa perez,train
+vallenato,jv3gOY5Zj0Y,Rafa Pérez,Mi Novia Mujer,vallenato:rafa perez,train
+vallenato,cpvQRy13PCM,Los Betos,Cuando La Vi,vallenato:betos,train
+vallenato,irtgxfEaPXg,Los Betos,Desenlace,vallenato:betos,train
+vallenato,2PcAPGHXv3I,Los Betos,Que Ingratitud,vallenato:betos,train
+vallenato,--mwc9RIYw4,Los Chiches Vallenatos,Tierra Mala,vallenato:chiches vallenatos,train
+vallenato,fzdQc2XV4B8,Los Chiches Vallenatos,Voy a Olvidarte,vallenato:chiches vallenatos,train
+vallenato,-z9E-azZLtU,Los Chiches Vallenatos,Hay Que Ser Fuerte,vallenato:chiches vallenatos,train
+vallenato,LA4X4fyJOcg,Los Gigantes del Vallenato,No He Podido Ser Feliz,vallenato:gigantes vallenato,train
+vallenato,8veX6aXeaBU,Los Gigantes del Vallenato,Cuéntame De Ti,vallenato:gigantes vallenato,train
+vallenato,C4cGljNvCig,Los Gigantes del Vallenato,Acuérdate,vallenato:gigantes vallenato,train
+vallenato,hNwlL1qkGPw,Miguel Morales,La Verdad De Tu Amor,vallenato:miguel morales,train
+vallenato,kENkUjE_Fms,Miguel Morales,Que Me Puedas Amar,vallenato:miguel morales,train
+vallenato,9XtIou3CNiY,Miguel Morales,No Te Detengas,vallenato:miguel morales,train
+vallenato,3KQAjcQwpBU,Churo Díaz,¿Qué Haces Por Aquí?,vallenato:churo diaz,train
+vallenato,PXYbeeseIm4,Churo Díaz,El Fuete,vallenato:churo diaz,train
+vallenato,c7kByhTK8b0,Churo Díaz,La Gran Lección,vallenato:churo diaz,train
+vallenato,YAMm40WSrik,Luis Mateus,Adios Amor,vallenato:luis mateus,train
+vallenato,_jmHaBh_vIo,Luis Mateus,Muero Por Verla,vallenato:luis mateus,train
+vallenato,Pc1YVd9hb00,Luis Mateus,Confundido,vallenato:luis mateus,train
+reggaeton,CCF1_jI8Prk,Daddy Yankee,Gasolina,reggaeton:daddy yankee,valid
+reggaeton,Fsh1P5xnVe8,Daddy Yankee,"Lo Que Pasó, Pasó",reggaeton:daddy yankee,valid
+reggaeton,AX9WpXYSlW8,Daddy Yankee,Rompe,reggaeton:daddy yankee,valid
+reggaeton,0azur7j0-Ho,Don Omar,Dale Don Dale,reggaeton:don omar,valid
+reggaeton,Z-3su2ov8Vg,Don Omar,Salió El Sol,reggaeton:don omar,valid
+reggaeton,7zp1TbLFPp8,Don Omar,Danza Kuduro,reggaeton:don omar,valid
+reggaeton,PnpEOtzb668,Tego Calderón,Pa' Que Retozen,reggaeton:tego calderon,valid
+reggaeton,0aoIjGkmMSk,Tego Calderón,Al Natural,reggaeton:tego calderon,valid
+reggaeton,48c7Y_MUHWQ,Tego Calderón,Metele Sazón,reggaeton:tego calderon,valid
+reggaeton,sN5P4QftaXo,Wisin & Yandel,Rakata,reggaeton:wisin,train
+reggaeton,YUXH2DqVOC8,Wisin & Yandel,Abusadora,reggaeton:wisin,train
+reggaeton,3rgwIp6D3ow,Wisin & Yandel,Algo Me Gusta De Ti,reggaeton:wisin,train
+reggaeton,ykj61GLeVz4,Ivy Queen,Yo Quiero Bailar,reggaeton:ivy queen,train
+reggaeton,h5g0zXdrITk,Ivy Queen,Yo Quiero Saber,reggaeton:ivy queen,train
+reggaeton,1rxFT-FIfek,Ivy Queen,La Vida Es Así,reggaeton:ivy queen,train
+reggaeton,hXI8RQYC36Q,Nicky Jam,El Perdón,reggaeton:nicky jam,train
+reggaeton,kkx-7fsiWgg,Nicky Jam,Hasta El Amanecer,reggaeton:nicky jam,train
+reggaeton,_I_D_8Z4sJE,Nicky Jam,X,reggaeton:nicky jam,train
+reggaeton,zZjSX01P5dE,J Balvin,Ginza,reggaeton:j balvin,train
+reggaeton,wnJ6LuUFpMo,J Balvin,Mi Gente,reggaeton:j balvin,train
+reggaeton,TapXs54Ah3E,J Balvin,Ay Vamos,reggaeton:j balvin,train
+reggaeton,jCQ_6XbATPc,Bad Bunny,Safaera,reggaeton:bad bunny,train
+reggaeton,GtSRKwDCaZM,Bad Bunny,Yo Perreo Sola,reggaeton:bad bunny,train
+reggaeton,Cr8K88UcO0s,Bad Bunny,Tití Me Preguntó,reggaeton:bad bunny,train
+reggaeton,KWGrPNqz4uc,Ozuna,Se Preparó,reggaeton:ozuna,train
+reggaeton,t_jHrUE5IOk,Maluma,Felices los 4,reggaeton:maluma,train
+reggaeton,pK060iUFWXg,Maluma,Hawái,reggaeton:maluma,train
+reggaeton,Xk0wdDTTPA0,Maluma,Borró Cassette,reggaeton:maluma,train
+reggaeton,QaXhVryxVBk,Karol G,Bichota,reggaeton:karol g,train
+reggaeton,tbneQDc2H3I,Karol G,Tusa,reggaeton:karol g,train
+reggaeton,ca48oMV59LU,Karol G,Provenza,reggaeton:karol g,train
+reggaeton,6R5i6wQCOCQ,Zion & Lennox,Otra Vez,reggaeton:zion,train
+reggaeton,tw2lJYRBO3s,Zion & Lennox,Yo Voy,reggaeton:zion,train
+reggaeton,zSMnGEuxB0U,Arcángel,Pa' Que La Pases Bien,reggaeton:arcangel,valid
+reggaeton,IvpzV3HXUdA,Arcángel,Por Amar a Ciegas,reggaeton:arcangel,valid
+reggaeton,y8trd3gjJt0,Farruko,Pepas,reggaeton:farruko,test
+reggaeton,SB8-YY2DyHI,Plan B,Mi Vecinita,reggaeton:plan b,train
+reggaeton,adyZO3E63Gg,Plan B,Si No Le Contesto,reggaeton:plan b,train
+reggaeton,fsUP-KYPI98,Plan B,Es Un Secreto,reggaeton:plan b,train
+reggaeton,mM7UbKQpfmg,Héctor El Father,Sola,reggaeton:hector father,test
+reggaeton,0ceh00dgjoc,Héctor El Father,Noche de Travesura,reggaeton:hector father,test
+reggaeton,vXtJkDHEAAc,Calle 13,Atrévete-te-te,reggaeton:calle 13,valid
+reggaeton,FPKjcPIC62w,Calle 13,Suave,reggaeton:calle 13,valid
+reggaeton,F877bV0Ai3E,Yandel,Encantadora,reggaeton:wisin,train
+reggaeton,S40q9ns2Sd4,Yandel,Calentura,reggaeton:wisin,train
+reggaeton,NsA51dsCNX8,Tito El Bambino,"Sol, Playa y Arena",reggaeton:tito bambino,train
+reggaeton,t39Z07HzUx4,Tito El Bambino,Caile,reggaeton:tito bambino,train
+reggaeton,hsbtJOqKebk,Tito El Bambino,Booty,reggaeton:tito bambino,train
+reggaeton,sqpMCR7USGo,De La Ghetto,Caliente,reggaeton:ghetto,train
+reggaeton,zisIC4b-kHs,Alexis & Fido,El Tiburón,reggaeton:alexis,train
+reggaeton,CHC6_9j72ro,Alexis & Fido,Soy Igual Que Tú,reggaeton:alexis,train
+reggaeton,HzZGVPZaZWw,Alexis & Fido,Energía,reggaeton:alexis,train
+reggaeton,NZJSIw09rqk,Divino,Pobre Corazón,reggaeton:divino,train
+reggaeton,LFnCogSfPfM,Rakim & Ken-Y,Down,reggaeton:rakim,train
+reggaeton,3aws_FqP8OE,Rakim & Ken-Y,Un Sueño,reggaeton:rakim,train
+reggaeton,ujdyP532KSA,Rakim & Ken-Y,Igual Que Ayer,reggaeton:rakim,train
+reggaeton,YZxmoOvqWek,Lunay,Soltera,reggaeton:lunay,train
+reggaeton,Gtu9V96TM7Y,Lunay,Aventura,reggaeton:lunay,train
+reggaeton,CFPLIaMpGrY,Rauw Alejandro,Todo de Ti,reggaeton:rauw alejandro,train
+reggaeton,K9mTSekTktw,Rauw Alejandro,Desesperados,reggaeton:rauw alejandro,train
+reggaeton,3d8MPbaTneE,Rauw Alejandro,Tattoo,reggaeton:rauw alejandro,train
+reggaeton,2_f5Os7mKqM,Myke Towers,Diosa,reggaeton:myke towers,train
+reggaeton,BeOcp9pCLRU,Sech,Otro Trago,reggaeton:sech,train
+reggaeton,c6D8v6DhKc4,Sech,Relación,reggaeton:sech,train
+reggaeton,Hp__tcvnEnk,Feid,Porfa,reggaeton:feid,test
+reggaeton,oD5f55ohsc4,Feid,Normal,reggaeton:feid,test
+reggaeton,BTtBmo5EbEk,Anuel AA,Ella Quiere Beber,reggaeton:anuel aa,valid
+reggaeton,VqEbCxg2bNI,Natti Natasha,Criminal,reggaeton:natti natasha,train
+reggaeton,GMFewiplIbw,Becky G,Mayores,reggaeton:becky g,train
+reggaeton,ngJwy17OiAM,Becky G,Dollar,reggaeton:becky g,train
+reggaeton,VYtJAuoZxcc,Manuel Turizo,Una Lady Como Tú,reggaeton:manuel turizo,train
+reggaeton,s0ZGUjHl8Yo,Cosculluela,Prrrum,reggaeton:cosculluela,train
+reggaeton,Gd_tCTtJhSE,Cosculluela,Te Busco,reggaeton:cosculluela,train
+reggaeton,BCf1sV-Z4gQ,Dalex,Pa Mí,reggaeton:dalex,train
+reggaeton,5JB2_b3htNY,Rafa Pabón,Mía,reggaeton:rafa pabon,test
+reggaeton,Sr2D5YwJKCk,J Álvarez,La Pregunta,reggaeton:j alvarez,test
+reggaeton,_fLuzAU94XI,J Álvarez,Esa Boquita,reggaeton:j alvarez,test
+reggaeton,fMiq-utP6SY,J Álvarez,Junto Al Amanecer,reggaeton:j alvarez,test
+reggaeton,zYvsOQwwfRU,Magnate & Valentino,Vuelve,reggaeton:magnate,train
+reggaeton,SJEXwdWT41w,Don Chezina,Tra Tra Tra,reggaeton:don chezina,train
+reggaeton,5Mk4azkkflY,Trebol Clan,Agarrala,reggaeton:trebol clan,test
+reggaeton,Bj32x6sxXoE,Eddie Dee,Señor Oficial,reggaeton:eddie dee,test
+reggaeton,AJrj_SHHeRg,Voltio,Chulin Culin Chunfly,reggaeton:voltio,train
+reggaeton,9PSGoOcwOWM,Tony Dize,Permítame,reggaeton:tony dize,train
+reggaeton,NnHfCYptnuw,Tony Dize,Ruleta Rusa,reggaeton:tony dize,train
+reggaeton,kVsYckNXYqM,Lorna,Papi Chulo,reggaeton:lorna,valid
+reggaeton,SAvVnVNSvDk,Ryan Castro,Mujeriego,reggaeton:ryan castro,test
+reggaeton,hMhR6T7EEfQ,Blessd,Medallo,reggaeton:blessd,train
+reggaeton,hoWI-y21ttw,Mora,Memorias,reggaeton:mora,train
+rock_es,T_FkEw27XJ0,Soda Stereo,De Música Ligera,rock_es:soda stereo,train
+rock_es,LalPz4lIZYk,Soda Stereo,Persiana Americana,rock_es:soda stereo,train
+rock_es,AVEDgT_lG60,Soda Stereo,En la Ciudad de la Furia,rock_es:soda stereo,train
+rock_es,YuF4qnfGmfs,Caifanes,La Negra Tomasa,rock_es:caifanes,train
+rock_es,gBt1jOtKz6Y,Caifanes,Afuera,rock_es:caifanes,train
+rock_es,i17Go6G-siA,Caifanes,No Dejes Que,rock_es:caifanes,train
+rock_es,SzimletXB7M,Héroes del Silencio,Entre Dos Tierras,rock_es:heroes silencio,valid
+rock_es,SqB4FSettTI,Héroes del Silencio,Maldito Duende,rock_es:heroes silencio,valid
+rock_es,jnDjEHyhFpU,Héroes del Silencio,La Chispa Adecuada,rock_es:heroes silencio,valid
+rock_es,lYC5wlY8d6A,Enanitos Verdes,Lamento Boliviano,rock_es:enanitos verdes,train
+rock_es,tYGZ1YCD2YU,Enanitos Verdes,La Muralla Verde,rock_es:enanitos verdes,train
+rock_es,NEBQ6qj4Vfs,Enanitos Verdes,Por el Resto,rock_es:enanitos verdes,train
+rock_es,WRcCBI5rFfM,Los Prisioneros,Tren al Sur,rock_es:prisioneros,train
+rock_es,OG2VEI0yPW8,Los Prisioneros,El Baile de los Que Sobran,rock_es:prisioneros,train
+rock_es,3IloSnGxBpY,Los Prisioneros,La Voz de los 80,rock_es:prisioneros,train
+rock_es,98Akpf1ph2o,Café Tacvba,Eres,rock_es:cafe tacvba,train
+rock_es,bKjn26agAEs,Café Tacvba,Chilanga Banda,rock_es:cafe tacvba,train
+rock_es,h0p8yTqj8i4,Maná,Oye Mi Amor,rock_es:mana,valid
+rock_es,8lbsQyMhMT8,Maná,Rayando el Sol,rock_es:mana,valid
+rock_es,sUlsTs2ljaE,Aterciopelados,Bolero Falaz,rock_es:aterciopelados,valid
+rock_es,_MB30bHR6Cs,Aterciopelados,Florecita Rockera,rock_es:aterciopelados,valid
+rock_es,Qnu0Mww49us,Aterciopelados,El Estuche,rock_es:aterciopelados,valid
+rock_es,I3Ybiq-SUYw,Los Fabulosos Cadillacs,Matador,rock_es:fabulosos cadillacs,train
+rock_es,8Zdhan166z0,Los Fabulosos Cadillacs,Vasos Vacíos,rock_es:fabulosos cadillacs,train
+rock_es,cl5HbmhEUBM,Los Fabulosos Cadillacs,Siguiendo la Luna,rock_es:fabulosos cadillacs,train
+rock_es,sHQ9BdvZPco,Hombres G,Devuélveme a Mi Chica,rock_es:hombres g,train
+rock_es,jvWP6JR1saE,Hombres G,Venezia,rock_es:hombres g,train
+rock_es,a3DxD8jlBz4,Hombres G,Te Quiero,rock_es:hombres g,train
+rock_es,uLIs0j2WnlM,Gustavo Cerati,Crimen,rock_es:soda stereo,train
+rock_es,eAO7CEcCD3s,Gustavo Cerati,Puente,rock_es:soda stereo,train
+rock_es,GUf81ofAZV0,Gustavo Cerati,Adiós,rock_es:soda stereo,train
+rock_es,CRBincBc_8k,Fito Páez,Mariposa Tecknicolor,rock_es:fito paez,train
+rock_es,ZweylZ8uiuw,Fito Páez,11 y 6,rock_es:fito paez,train
+rock_es,1DYUNaJ_rfU,Fito Páez,A Rodar Mi Vida,rock_es:fito paez,train
+rock_es,Mm3IgrVsu24,Charly García,Demoliendo Hoteles,rock_es:charly garcia,train
+rock_es,P3L10KNMptw,Charly García,No Voy en Tren,rock_es:charly garcia,train
+rock_es,BAuqozi64WQ,Charly García,Los Dinosaurios,rock_es:charly garcia,train
+rock_es,UCF9oHXhDMU,Andrés Calamaro,Flaca,rock_es:andres calamaro,test
+rock_es,P01hVBLP0_g,Andrés Calamaro,Crímenes Perfectos,rock_es:andres calamaro,test
+rock_es,D53dDUgkrtE,Andrés Calamaro,Paloma,rock_es:andres calamaro,test
+rock_es,BUKHMGiW_rY,Los Rodríguez,Sin Documentos,rock_es:andres calamaro,test
+rock_es,dX1Fe7kFmww,Los Rodríguez,Mucho Mejor,rock_es:andres calamaro,test
+rock_es,21DBuMo0qAY,Los Rodríguez,Dulce Condena,rock_es:andres calamaro,test
+rock_es,CzEbm7yup7g,Molotov,Puto,rock_es:molotov,train
+rock_es,8iJMOBcPQyg,Molotov,Frijolero,rock_es:molotov,train
+rock_es,9YI4aqaVSg0,Molotov,Gimme Tha Power,rock_es:molotov,train
+rock_es,wLYk_qRjP6c,Zoé,Labios Rotos,rock_es:zoe,train
+rock_es,T0dZbJo-uLs,Zoé,Soñé,rock_es:zoe,train
+rock_es,q3yJ_yDhNVk,Zoé,Love,rock_es:zoe,train
+rock_es,5OuFnuhXUBc,Los Bunkers,Llueve Sobre la Ciudad,rock_es:bunkers,train
+rock_es,ze1nnxkqyTc,Los Bunkers,Ven Aquí,rock_es:bunkers,train
+rock_es,8LhSV-l5ggc,Los Bunkers,Miéntele,rock_es:bunkers,train
+rock_es,zeUBevkD5l8,La Ley,El Duelo,rock_es:ley,train
+rock_es,d1dcXgGQT2M,La Ley,Mentira,rock_es:ley,train
+rock_es,zBsOTFuN4gc,La Ley,Al Final,rock_es:ley,train
+rock_es,KNeLqABYNFQ,El Tri,Triste Canción,rock_es:tri,valid
+rock_es,X4AEuon2ncA,El Tri,Las Piedras Rodantes,rock_es:tri,valid
+rock_es,EbS_IvLG8DI,El Tri,Pobre Soñador,rock_es:tri,valid
+rock_es,a2cKv33Gkks,Babasónicos,El Loco,rock_es:babasonicos,valid
+rock_es,ID-iJOw9rLo,Los Auténticos Decadentes,La Guitarra,rock_es:autenticos decadentes,test
+rock_es,fgXDHQm5eq4,Los Auténticos Decadentes,Loco (Tu Forma de Ser),rock_es:autenticos decadentes,test
+rock_es,CnJqYsSOgfg,Patricio Rey y sus Redonditos de Ricota,Jijiji,rock_es:patricio rey redonditos ricota,train
+rock_es,WlFLpKaC4_c,Patricio Rey y sus Redonditos de Ricota,Un Poco de Amor Francés,rock_es:patricio rey redonditos ricota,train
+rock_es,i-wenDno1lA,Indio Solari,Nuestro Amo Juega al Esclavo,rock_es:patricio rey redonditos ricota,train
+rock_es,_FTW5MdKw98,La Renga,El Revelde,rock_es:renga,train
+rock_es,djwPsBjl8Wk,La Renga,Hablando de la Libertad,rock_es:renga,train
+rock_es,tSqdUz-tNe4,Divididos,El 38,rock_es:sumo,train
+rock_es,XPzAcGgtTkY,Divididos,Paisano de Hurlingham,rock_es:sumo,train
+rock_es,cdzpf_T2qaA,Divididos,Spaghetti del Rock,rock_es:sumo,train
+rock_es,V7q1jN7k5lg,Rata Blanca,Mujer Amante,rock_es:rata blanca,valid
+rock_es,51cZsDsVOqc,Rata Blanca,La Leyenda del Hada y el Mago,rock_es:rata blanca,valid
+rock_es,1D3tSv9LQlE,Extremoduro,So Payaso,rock_es:extremoduro,test
+rock_es,pM3JPhWApvY,Extremoduro,La Vereda de la Puerta de Atrás,rock_es:extremoduro,test
+rock_es,GxQjx7FkmNA,Fito y Fitipaldis,Soldadito Marinero,rock_es:fito fitipaldis,test
+rock_es,iUXs4Nt3Y7Y,Fito y Fitipaldis,Por la Boca Vive el Pez,rock_es:fito fitipaldis,test
+rock_es,yCOPiRQx8AQ,Platero y Tú,Hay Poco Rock & Roll,rock_es:platero tu,train
+rock_es,hu9ZWAqNZ_0,Platero y Tú,Juliette,rock_es:platero tu,train
+rock_es,4E3--jNfmnQ,Barón Rojo,Los Rockeros Van al Infierno,rock_es:baron rojo,test
+rock_es,TEEceDqULf4,Barón Rojo,Resistiré,rock_es:baron rojo,test
+rock_es,zZPvME8H2Oo,Mägo de Oz,Fiesta Pagana,rock_es:mago oz,train
+rock_es,LtT92AVjZmM,Mägo de Oz,La Costa del Silencio,rock_es:mago oz,train
+rock_es,_fnpRds601s,Mägo de Oz,Hasta Que el Cuerpo Aguante,rock_es:mago oz,train
+rock_es,OvtoekZmx30,Jaguares,Te Lo Pido Por Favor,rock_es:caifanes,train
+rock_es,KKnnOoS8avM,Jaguares,Fin,rock_es:caifanes,train
+rock_es,KK12h0ctzpU,Jaguares,Detrás de Los Cerros,rock_es:caifanes,train
+rock_es,_TsAzJD58Yo,Kraken,Vestido de Cristal,rock_es:kraken,train
+rock_es,3RbHqcvN1Tg,Kraken,Lágrimas de Fuego,rock_es:kraken,train
+rock_es,3EqnDi4PCD8,Kraken,Muere Libre,rock_es:kraken,train
+rock_es,j25Htq9yDn0,Los Tres,Déjate Caer,rock_es:tres,train
+rock_es,NBVPSLkhc9U,Los Tres,Un Amor Violento,rock_es:tres,train
+rock_es,3lEw4-olZZg,Los Tres,La Espada y la Pared,rock_es:tres,train
+rock_es,RGuywvoXS0E,Libido,En Esta Habitación,rock_es:libido,train
+rock_es,O2dfgfSJXWA,Los Pericos,Runaway,rock_es:pericos,train
+rock_es,d7WSK5xyFfU,Los Pericos,Parate y Mira,rock_es:pericos,train
+rock_es,zPxlLzbFpMg,Los Pericos,Pupilas Lejanas,rock_es:pericos,train
+rock_es,K7XcO81TckU,El Cuarteto de Nos,Yendo a la Casa de Damián,rock_es:cuarteto nos,train
+rock_es,y9LlnLTH87U,El Cuarteto de Nos,Ya No Sé Qué Hacer Conmigo,rock_es:cuarteto nos,train
+rock_es,KQIJo57MLGg,El Cuarteto de Nos,Me Amo,rock_es:cuarteto nos,train
+rock_es,YglZ5BzPbYs,No Te Va Gustar,Chau,rock_es:no te va gustar,train
+rock_es,30oa0b2mdUo,No Te Va Gustar,A las Nueve,rock_es:no te va gustar,train
