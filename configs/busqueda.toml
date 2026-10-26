@@ -1,0 +1,7 @@
+# Rejilla de hiperparámetros. Se elige con la exactitud por segmento en validación;
+# la prueba no se evalúa en esta etapa.
+escenario = "A"
+semilla = 0
+modelos = ["densa", "lstm"]
+dropout = [0.3, 0.5]
+tasa = [1e-3, 3e-4]

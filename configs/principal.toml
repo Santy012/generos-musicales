@@ -1,0 +1,6 @@
+# Corridas finales: cada modelo con los hiperparámetros elegidos en la búsqueda.
+# Orden: por semilla y de lo más barato a lo más caro, para que un corte deje
+# semillas completas.
+escenarios = ["A", "B", "C"]
+modelos = ["densa", "lstm"]
+semillas = [0, 1, 2]
