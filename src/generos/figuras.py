@@ -31,7 +31,7 @@ def aplicar_estilo() -> None:
         "figure.facecolor": SUPERFICIE, "axes.facecolor": SUPERFICIE, "savefig.facecolor": SUPERFICIE,
         "font.family": ["Segoe UI", "DejaVu Sans", "sans-serif"], "font.size": 10,
         "text.color": TINTA, "axes.labelcolor": TINTA_2, "axes.titlecolor": TINTA,
-        "axes.titlesize": 11, "axes.titleweight": "semibold", "axes.titlelocation": "left",
+        "axes.titlesize": 11, "axes.titleweight": "bold", "axes.titlelocation": "left",
         "xtick.color": TENUE, "ytick.color": TENUE, "axes.edgecolor": EJE, "axes.linewidth": 0.8,
         "axes.spines.top": False, "axes.spines.right": False,
         "axes.grid": False, "grid.color": REJILLA, "grid.linewidth": 0.6,

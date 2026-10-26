@@ -97,6 +97,36 @@ def fuera_de_escenario(genero: str, escenario: str = "B") -> pd.DataFrame:
     return pd.DataFrame(filas)
 
 
+def misma_fuente(escenario: str) -> pd.DataFrame:
+    """Por fuente real (GTZAN o YouTube): % de canciones predichas como un género de la misma fuente.
+
+    Se calcula con las matrices de confusión por canción sumadas sobre semillas.
+    """
+    from generos.config import GENEROS_GTZAN
+
+    filas = []
+    for modelo in MODELOS:
+        rs = [r for r in cargar() if r["escenario"] == escenario and r["modelo"] == modelo]
+        cm = np.sum([np.array(r["test"]["confusion_cancion"]) for r in rs], axis=0)
+        generos = rs[0]["generos"]
+        es_gtzan = np.array([g in GENEROS_GTZAN for g in generos])
+        for fuente, filas_fuente in (("GTZAN", es_gtzan), ("YouTube", ~es_gtzan)):
+            sub = cm[filas_fuente]
+            filas.append({"modelo": modelo, "fuente": fuente,
+                          "misma_fuente": sub[:, filas_fuente].sum() / sub.sum(),
+                          "genero_correcto": np.trace(cm[np.ix_(filas_fuente, filas_fuente)]) / sub.sum()})
+    return pd.DataFrame(filas)
+
+
+def tabla_fuente(escenarios=("B", "C")) -> str:
+    lineas = ["| Escenario | Modelo | Canciones de | Predichas como un género de la misma fuente (%) | Género correcto (%) |",
+              "| --- | --- | --- | ---: | ---: |"]
+    for e in escenarios:
+        for r in misma_fuente(e).itertuples():
+            lineas.append(f"| {e} | {MODELOS[r.modelo]} | {r.fuente} | {pct(r.misma_fuente)} | {pct(r.genero_correcto)} |")
+    return "\n".join(lineas)
+
+
 def tabla_rock() -> str:
     df = rock_vs_rock_es()
     lineas = ["| Modelo | Canciones de | Predichas como rock en español (%) | Predichas como rock (%) | Otro género (%) |",

@@ -40,11 +40,11 @@ def descargar(genero: str, id_video: str, inicio: int) -> bool:
             info = ydl.extract_info(f"https://www.youtube.com/watch?v={id_video}", download=True)
             original = ydl.prepare_filename(info)
         destino.parent.mkdir(parents=True, exist_ok=True)
-        parcial = destino.with_suffix(".part.wav")
+        temporal = destino.with_suffix(".tmp.wav")
         subprocess.run([FFMPEG, "-y", "-loglevel", "error", "-ss", str(inicio), "-t", str(DURACION_CANCION),
-                        "-i", original, "-ac", "1", "-ar", str(SAMPLE_RATE), str(parcial)],
+                        "-i", original, "-ac", "1", "-ar", str(SAMPLE_RATE), str(temporal)],
                        check=True, capture_output=True)
-        parcial.replace(destino)
+        temporal.replace(destino)
         return True
     except Exception as e:  # video borrado, restringido, error de red o de ffmpeg
         log.warning("%s %s: %s", genero, id_video, str(e).splitlines()[0][:200])

@@ -26,6 +26,7 @@ def bloques() -> dict[str, str]:
         "principal": res.tabla_markdown(),
         "por_genero": res.tabla_por_genero("C"),
         "rock": res.tabla_rock(),
+        "fuente": res.tabla_fuente(),
         "fuera": res.tabla_fuera(),
         "busqueda": res.tabla_busqueda_markdown(),
     }
