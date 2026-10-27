@@ -15,9 +15,9 @@ vienen de otra fuente de grabación?
 - **La LSTM no supera a la red densa.** En los tres escenarios la densa queda igual o por encima,
   con diferencias del orden de la variación entre semillas. Con 10 géneros, la densa acierta el
   38,5 % de las canciones de prueba y la LSTM el 35,9 % (azar: 10 %).
-- **La partición importa más que la arquitectura.** Ningún artista se repite entre entrenamiento y
-  prueba. Así, ambos modelos memorizan el entrenamiento (62–74 %) y generalizan poco: en validación
-  se estancan cerca del 35 %.
+- **Ambos modelos generalizan poco.** Ningún artista se repite entre entrenamiento y prueba, y con
+  esa partición los dos se ajustan al entrenamiento (62–74 %) pero en validación se estancan cerca
+  del 35 %.
 - **Los MFCC capturan la fuente tanto como el género.** Las canciones de reguetón y rock en español
   que el modelo nunca vio se asignan a salsa y vallenato, los otros géneros de YouTube. El rock en
   español nunca se predice como rock.
@@ -138,7 +138,7 @@ resultados muestran lo contrario: un audio externo se clasificaría sobre todo p
   artistas entre entrenamiento, validación y prueba. Quedan 929 canciones (442 / 197 / 290); se
   excluye `jazz.00054`, que no se puede leer.
 - **Salsa, vallenato, reguetón y rock en español**, desde listas curadas en `data_sources/` (video,
-  segundo de inicio, artista, título y revisión del género). Se usan máximo 3 canciones por artista
+  segundo de inicio, artista, título y revisión del género a partir de artista, título y canal). Se usan máximo 3 canciones por artista
   y se descartan grabaciones en vivo, popurrís, versiones y colaboraciones donde el artista listado
   no es el principal. Cada canción se recorta a 30 s desde el segundo 30 y se convierte al formato
   de GTZAN (WAV mono, 22.050 Hz). Hay 100 canciones por género (89 en reguetón), repartidas **por
@@ -187,7 +187,9 @@ resultados muestran lo contrario: un audio externo se clasificaría sobre todo p
   género nuevo). La prueba de cada género nuevo tiene entre 12 y 16 canciones.
 - **Representación:** 13 MFCC por ventana describen el timbre, pero no el ritmo a largo plazo ni la
   armonía.
-- **Etiquetas:** el género de las listas curadas no tiene una segunda revisión independiente.
+- **Etiquetas:** el género de las listas curadas se asignó por metadatos (artista, título y canal),
+  sin escuchar cada canción ni una segunda revisión independiente. Una canción de un artista del
+  género puede no pertenecer a él.
 - **Diseño:** género y fuente no se pueden separar con estos datos. Para hacerlo harían falta los
   mismos géneros grabados desde varias fuentes.
 
