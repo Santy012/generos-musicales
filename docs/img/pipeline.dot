@@ -1,0 +1,12 @@
+digraph G { rankdir=LR; bgcolor="white"; pad=0.3; nodesep=0.35; ranksep=0.5;
+  node [shape=box, style="rounded,filled", fontname="DejaVu Sans", fontsize=12, color="#5b6b7f", fillcolor="#eef2f7", margin="0.18,0.08"];
+  edge [fontname="DejaVu Sans", fontsize=10, color="#5b6b7f", fontcolor="#3a4656"];
+  G [label="GTZAN · 10 géneros\npartición fault-filtered", shape=cylinder];
+  Y [label="YouTube · listas curadas\nsalsa · vallenato · reguetón · rock en español", shape=cylinder];
+  S [label="Segmentos de 5 s\n13 MFCC · 216×13"];
+  subgraph cluster_m { label="Mismos segmentos, 3 semillas"; fontname="DejaVu Sans Bold"; fontsize=12; style="rounded,dashed"; color="#9aa7b6";
+    Dn [label="Red densa 128-64", fillcolor="#fde9cf", color="#c98a2b"]; Ls [label="LSTM 128-64", fillcolor="#fde9cf", color="#c98a2b"]; }
+  V [label="Voto por canción\nescenarios A · B · C"];
+  F [label="¿Género o fuente?\nanálisis por origen", fillcolor="#e3f1e6", color="#4e8a5c"];
+  G -> S; Y -> S; S -> Dn; S -> Ls; Dn -> V; Ls -> V; V -> F;
+}

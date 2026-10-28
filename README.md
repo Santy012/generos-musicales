@@ -131,6 +131,8 @@ resultados muestran lo contrario: un audio externo se clasificaría sobre todo p
 
 ## Método
 
+![Pipeline: dos fuentes de audio, segmentos con 13 MFCC, red densa y LSTM, voto por canción y análisis por fuente](docs/img/pipeline.png)
+
 **Datos**
 
 - **GTZAN**, descargado de Kaggle con verificación SHA-256. Se usa la partición *fault-filtered* de
